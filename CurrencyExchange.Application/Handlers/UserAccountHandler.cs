@@ -3,12 +3,7 @@ using CurrencyExchange.Contracts.Handlers;
 using CurrencyExchange.Contracts.Models;
 using CurrencyExchange.Contracts.Repositories;
 using CurrencyExchange.Contracts.Repositories.Entities;
-using System;
-using System.Collections.Generic;
 using System.Data;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace CurrencyExchange.Application.Handlers
 {

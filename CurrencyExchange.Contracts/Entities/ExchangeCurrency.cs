@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace CurrencyExchange.Contracts.Entities
+﻿namespace CurrencyExchange.Contracts.Entities
 {
     public class ExchangeCurrency
     {
@@ -13,7 +7,7 @@ namespace CurrencyExchange.Contracts.Entities
         public Guid ToCurrencyId { get; set; }
 
         /// <summary>
-        /// 
+        /// Курс валют.
         /// </summary>
         public decimal ExcangeRate { get; set; }
 

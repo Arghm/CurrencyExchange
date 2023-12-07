@@ -1,8 +1,4 @@
-﻿using CurrencyExchange.Contracts.Entities;
-using System.ComponentModel.DataAnnotations.Schema;
-using System.ComponentModel.DataAnnotations;
-
-namespace CurrencyExchange.Contracts.Models
+﻿namespace CurrencyExchange.Contracts.Models
 {
     public sealed class AccountModel
     {

@@ -1,5 +1,4 @@
 ﻿using CurrencyExchange.Contracts.Models;
-using CurrencyExchange.Contracts.Repositories.Entities;
 
 namespace CurrencyExchange.Contracts.Handlers
 {

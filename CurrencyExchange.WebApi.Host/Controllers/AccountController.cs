@@ -1,5 +1,4 @@
-﻿using CurrencyExchange.Application.Handlers;
-using CurrencyExchange.Contracts.Handlers;
+﻿using CurrencyExchange.Contracts.Handlers;
 using CurrencyExchange.Contracts.Models;
 using Microsoft.AspNetCore.Mvc;
 

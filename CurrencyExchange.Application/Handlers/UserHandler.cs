@@ -4,7 +4,6 @@ using CurrencyExchange.Contracts.Repositories;
 using CurrencyExchange.Contracts.Repositories.Entities;
 using Microsoft.Extensions.Logging;
 using System.Data;
-using System.Data.Common;
 
 namespace CurrencyExchange.Application.Handlers
 {

@@ -1,11 +1,6 @@
-﻿using CurrencyExchange.Application.Handlers;
-using CurrencyExchange.Contracts.Handlers;
+﻿using CurrencyExchange.Contracts.Handlers;
 using CurrencyExchange.Contracts.Models;
-using CurrencyExchange.Migrations;
-using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.Logging.Abstractions;
 
 namespace CurrencyExchange.WebApi.Host.Controllers
 {

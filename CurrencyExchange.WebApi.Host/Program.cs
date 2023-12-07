@@ -2,9 +2,7 @@ using CurrencyExchange.Application.Infrastructure;
 using CurrencyExchange.Migrations;
 using CurrencyExchange.WebApi.Host.Middleware;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore.Storage.ValueConversion.Internal;
 using Serilog;
-using System.ComponentModel.DataAnnotations;
 
 namespace CurrencyExchange.WebApi.Host
 {

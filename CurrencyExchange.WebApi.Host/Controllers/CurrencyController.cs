@@ -1,7 +1,6 @@
 ﻿using CurrencyExchange.Contracts.Handlers;
 using CurrencyExchange.Contracts.Models;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Configuration.UserSecrets;
 
 namespace CurrencyExchange.WebApi.Host.Controllers
 {
